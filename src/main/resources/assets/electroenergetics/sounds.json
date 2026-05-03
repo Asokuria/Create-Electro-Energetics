@@ -62,6 +62,15 @@
     ],
     "subtitle": "electroenergetics.subtitle.electric_train"
   },
+  "dc_train_low": {
+    "sounds": [
+      {
+        "type": "file",
+        "name": "electroenergetics:dc_train_low"
+      }
+    ],
+    "subtitle": "electroenergetics.subtitle.electric_train"
+  },
   "train_relay": {
     "sounds": [
       {
